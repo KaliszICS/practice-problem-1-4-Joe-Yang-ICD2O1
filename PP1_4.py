@@ -2,9 +2,12 @@
 
 def q1():
   #Write Assignment code here
+  word = input("Input a word: ")
+  print(word)
 
 def q2():
   #Write Assignment code here
+  
 
 def q3():
   #Write Assignment code here
