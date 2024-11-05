@@ -7,6 +7,7 @@ def q1():
 
 def q2():
   #Write Assignment code here
+  fname = input("Input your first name: ")
   
 
 def q3():
